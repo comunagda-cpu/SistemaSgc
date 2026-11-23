@@ -33,13 +33,15 @@ Esta sección contiene los datos de acceso y propiedad necesarios para la admini
 | Concepto | Dato |
 |---|---|
 | **Nombre del proyecto** | Sistema de Gestión Comunal (SGC) |
-| **Repositorio (URL)** | *`[Insertar URL del repositorio aquí]`* |
-| **Propietario del repositorio (GitHub)** | *`[Insertar usuario de GitHub aquí]`* |
-| **Correo de acceso a GitHub** | *`[Insertar correo aquí]`* |
-| **Correo de acceso a Supabase** | *`[Insertar correo aquí]`* |
-| **Correo de acceso a Vercel** | *`[Insertar correo aquí]`* |
-| **URL de la aplicación en producción** | *`[Insertar URL del sitio desplegado aquí]`* |
-| **URL del proyecto en Supabase** | *`[Insertar URL de Supabase aquí, ej: https://xxxx.supabase.co]`* |
+| **Repositorio (GitHub)** | https://github.com/comunagda-cpu/SistemaSgc |
+| **Propietario / Usuario (GitHub)** | comunagda-cpu |
+| **Correo de acceso a GitHub** | comuna.gda@gmail.com |
+| **Clave de acceso a GitHub** | Sacs.2025 |
+| **Correo (Gmail)** | comuna.gda@gmail.com |
+| **Clave de acceso a Gmail** | Sacs.2025 |
+| **URL del proyecto en Supabase** | https://qdmyjbjmlzvigplyxqnn.supabase.co |
+| **Correo de acceso a Supabase** | comuna.gda@gmail.com |
+| **Clave de acceso a Supabase** | Sacs.2025 |
 
 > **Advertencia de Seguridad:** Este apartado contiene información sensible. No comparta este manual con personas no autorizadas ni lo publique en repositorios públicos sin antes eliminar o redactar esta sección.
 

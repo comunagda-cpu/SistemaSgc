@@ -42,6 +42,7 @@ Esta sección contiene los datos de acceso y propiedad necesarios para la admini
 | **URL del proyecto en Supabase** | https://qdmyjbjmlzvigplyxqnn.supabase.co |
 | **Correo de acceso a Supabase** | comuna.gda@gmail.com |
 | **Clave de acceso a Supabase** | Sacs.2025 |
+| **Correo de acceso a Vercel** | comuna.gda@gmail.com |
 
 > **Advertencia de Seguridad:** Este apartado contiene información sensible. No comparta este manual con personas no autorizadas ni lo publique en repositorios públicos sin antes eliminar o redactar esta sección.
 
